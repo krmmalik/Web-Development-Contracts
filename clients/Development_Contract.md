@@ -25,4 +25,19 @@ We have a defined process for the delivery of digital projects.
 
     Clients will have the opportunity to liaise directly with the developer to provide input in order to develop the statement of work or functional specification. 
 
-    This part of the process is chargeable. 
+
+    This part of the process is chargeable.
+
+    ## Creative Control
+
+    ## CMS
+
+
+    ## Project Delivery
+    Once the functional specification or the statement of work has been created. The client will be provided with delivery times.
+
+    Our freelancers work on multiple projects at once, and have varying schedules. Therefore our timescales may not match industry standard delivery times. However, if your project delivery requirements are urgent, we can provide you with a quote for speedier delivery. Please ask us further about this.
+
+# Payment
+
+# Terms and Conditions
