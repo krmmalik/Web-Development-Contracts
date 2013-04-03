@@ -9,5 +9,5 @@ We work with all types of freelancers that are able to provide some form of Digi
 #What we love
 First and foremost our emphasis is on personality. We choose freelancers with a great personality and a healthy attitude towards their work, over those with 'big name' backgrounds and an impressive skill-set. We seek to develop long-term relationships with those that support our work for our clients.
 
-We love working with individuals that enjoy self-study, that are current with trends, dabble in their on side-projects and have a naturally curious disposition.
+We love working with individuals that enjoy self-study, that are current with trends, dabble in their own side-projects and have a naturally curious disposition.
 
