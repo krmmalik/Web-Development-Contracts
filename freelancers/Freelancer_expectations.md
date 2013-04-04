@@ -3,6 +3,9 @@ Freelancer expectations
 
 Our reputation depends on the quality of work delivered by our freelancers. Our personalised approach to our clients is what results in referrals, therefore we choose to only work with the freelancers that are able to deliver and understand the expectations below.
 
+If there is only *one* thing you remember, it is this:
+**Honour your commitments**
+
 #Client Communication
 Communicating directly with the client is welcome, and encouraged.
 We request you to keep the communication to the scope of your role within the project.
