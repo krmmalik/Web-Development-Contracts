@@ -96,26 +96,22 @@ To ensure timely project delivery, clients **must** provide the following inform
 # Payment
 Payment terms will vary based on each project, but generally require 50% for each stage up front and 50% upon delivery. Functional specification work must be paid for upfront.
 
+# Hosting
+Hosting is provided by third-parties. As part of all projects we provide initial setup and configuration services, however technical support issues must be directed to the hosting company. All access credentials will be provided to enable you to request support appropriately.
+
 # Terms and Conditions
 
 - Change Requests.
-1 set of change requests will be entertained for all minor changes. Minor changes refer to cosmetic changes, content changes and minor site functionality.
-
-Major changes will be quoted for additionally.
+1 set of change requests will be entertained for all minor changes. Minor changes refer to cosmetic changes, content changes and minor site functionality. Major changes will be quoted for additionally.
 Major changes refer to structural changes of the site (including layout), programming and database changes.
-
-
 
 - Time Slots: All additional work has to be scheduled for the freelancers time slot. Deadline dates will be agreed at each stage. The client must provide all necessary information/resources in order to enable the freelancers to complete the job on time and to satisfaction. Any delays in this will result in delays to project delivery.
 
-
-
 - Training. A 45min training session over skype will be provided on how to use the website, where appropriate, or a 10 minute tutorial video, dependent on client preference.
-
-
 
 - CMS: For clients getting a CMS website, the client is responsible for making all content based changes to the website. These include changing any text, additional pages, adding/uploading images and so on.
 
+- Allocated Developer Time: For digital development projects, our developers work on a fixed amount of allocated time basis. We can only offer change requests and revisions for a fixed number of hours.
 
 
 
